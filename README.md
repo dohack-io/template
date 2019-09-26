@@ -1,4 +1,4 @@
-# template
+# Template Repository
 This is a template, please fill it with your teams data. Places to fill in data are marked with a //TODO. If you fail to do so, our jury can't evaluate your project. 
 
 ## Description 
